@@ -13,11 +13,11 @@
    <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
 </div>
 
-- 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
+- 🎯 O conhecimento é como um jardim: se não for cultivado, não pode ser colhido!
 
 
 ***
-## 🛠 Certificados
+## 🎓 Certificados
 
 ### 👩‍💻 &nbsp;Back-End
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
