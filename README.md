@@ -9,9 +9,6 @@
   </div>
 
 ***
-<div align="center">
-   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
-</div>
 
 - 🎯 O conhecimento é como um jardim: se não for cultivado, não pode ser colhido!
 
